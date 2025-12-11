@@ -7,7 +7,7 @@
    - Built real-time court reservation UI with dynamic date/time selection and availability display.
    - Implemented secure client-side authentication with Google OAuth, JWT, and Axios interceptors.
    - Integrated frontend workflows with booking and user APIs to ensure smooth user experiences.
-- Tech stack: ReactJS, TypeScript, JavaScript, NextJS, Material UI, NestJS, Katalon, Selenium, Java.
+- Tech stack: ReactJS, TypeScript, JavaScript, NextJS, Material UI, NestJS, Katalon, Selenium, Java, Lighthouse.
 
 # How to run:
 
